@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\3in1\bin\Debug\3in1.exe.config
+C:\Users\User\source\repos\3in1\bin\Debug\3in1.exe
+C:\Users\User\source\repos\3in1\bin\Debug\3in1.pdb
+C:\Users\User\source\repos\3in1\obj\Debug\3in1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\3in1\obj\Debug\_3in1.Form1.resources
+C:\Users\User\source\repos\3in1\obj\Debug\_3in1.Properties.Resources.resources
+C:\Users\User\source\repos\3in1\obj\Debug\3in1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\3in1\obj\Debug\3in1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\3in1\obj\Debug\3in1.exe
+C:\Users\User\source\repos\3in1\obj\Debug\3in1.pdb
+C:\Users\User\source\repos\3in1\obj\Debug\_3in1.Form2.resources
+C:\Users\User\source\repos\3in1\obj\Debug\_3in1.Form3.resources
+C:\Users\User\source\repos\3in1\obj\Debug\_3in1.Form4.resources
